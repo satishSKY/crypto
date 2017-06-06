@@ -1,0 +1,23 @@
+{
+  "name": "Crypto",
+  "homepage": "https://github.com/satishSKY/crypto",
+  "description": "For encrypt string to hash string in angularjs (SHA-512).",
+  "main": "sha512.js",
+  "keywords": [
+    "crypto",
+    "encrypt",
+    "jsSHA",
+    "HEX"
+  ],
+  "authors": [
+    "satish Kumar Yadav(satish1388@gmail.com)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
